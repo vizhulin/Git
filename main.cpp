@@ -3,7 +3,7 @@ public:
         virtual void f(){};
 };
 
-class Child1 : public  Parent{
+class Child2 : public  Parent{
 public:
     void f(){};
 };
